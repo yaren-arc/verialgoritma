@@ -1,0 +1,2 @@
+# verialgoritma
+veri
